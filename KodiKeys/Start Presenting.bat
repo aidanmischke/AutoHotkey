@@ -1,0 +1,2 @@
+presentationsettings /start
+exit

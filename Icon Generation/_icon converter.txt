@@ -1,0 +1,6 @@
+http://www.rw-designer.com/image-to-icon
+
+Icon for Windows 7 or Vista
+
+Custom sizes
+16, 24, 32, 48, 256
